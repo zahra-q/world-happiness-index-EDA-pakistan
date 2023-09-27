@@ -10,6 +10,8 @@ time?”
 
 There are six other metrics that are also measured along with the happiness score: real GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption.
 
+## About the Project
+
 This project is two-fold. First, we will be carrying out EDA on the data for different countries. Secondly, we will be specifically performing EDA on Pakistan's data.
 
 ### Data Loading
